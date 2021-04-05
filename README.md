@@ -18,7 +18,8 @@ The whole format goes as this:
 
 `src/{namespace}/bundle_{locale_code}.properties`
 
-The file format for `.properties` can be found at [Wikipedia](https://en.wikipedia.org/wiki/.properties)
+The file format for `.properties`
+can be found at [Wikipedia](https://en.wikipedia.org/wiki/.properties)
 
 It's usually seperated by key, for example: 
 
