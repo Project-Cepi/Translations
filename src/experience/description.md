@@ -1,0 +1,1 @@
+Describes translaitons for everything dealing with levels.
