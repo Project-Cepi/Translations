@@ -39,4 +39,4 @@ other.value2 = He
 The key characters =, and : should be written with
 a preceding backslash to ensure that they are properly loaded.
 
-Don't use quotes -- if you contributed a bunch of translations but they all have quotes, use the regex `"([\w \d%!':]+)"` on the src/ folder.
+Don't use quotes (to contain the message) -- if you contributed a bunch of translations but they all have quotes, use the regex `"([\w \d%!':]+)"` on the src/ folder.
