@@ -31,3 +31,10 @@ some.value2 = World
 other.value = We
 other.value2 = He
 ```
+
+## Common Errors
+
+[From Wikipedia](https://en.wikipedia.org/wiki/.properties)
+
+The key characters =, and : should be written with
+a preceding backslash to ensure that they are properly loaded.
